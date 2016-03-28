@@ -14,7 +14,7 @@ bincode = "0.5.0"
 
 
 [dependencies.mydht-base]
-#path = "../mydht-base/"
-git = "https://github.com/cheme/mydht-base.git"
+path = "../mydht-base/"
+#git = "https://github.com/cheme/mydht-base.git"
 
 
